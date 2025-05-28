@@ -1,13 +1,12 @@
 """
 Performs a Google search using the Google Custom Search JSON API and displays the results.
 
-This script requires three command-line arguments:
-1. query: The search term(s) you want to look up.
-2. api_key: Your Google API Key.
-3. search_engine_id: Your Programmable Search Engine ID (CX).
+This script requires a .env file with the following variables:
+1. SEARCH_ENGINE_ID: Your Programmable Search Engine ID (CX)
+2. API_KEY: Your Google API Key
 
 Example Usage:
-    python google_search.py "cute kittens" "YOUR_API_KEY_HERE" "YOUR_SEARCH_ENGINE_ID_HERE"
+    python google_search.py "cute kittens"
 
 To obtain an API Key:
 - Go to the Google Cloud Console (https://console.cloud.google.com/).
@@ -24,25 +23,52 @@ To obtain a Search Engine ID (CX):
 import argparse
 import json
 import requests
+import os
+from dotenv import load_dotenv
+from youtube_process import is_youtube_video, extract_video_id, get_transcript_with_retry
+from text_summarizer import summarize_text
+from webpage_process import get_webpage_text
+
+def process_and_summarize(text, source_type="", person_name=""):
+    """Process text and generate summary"""
+    if text:
+        print(f"\n{source_type} Summary:")
+        if source_type == "Transcript":
+            summary = summarize_text(text, extract_publish_date=False, topic=person_name)
+        else:
+            summary = summarize_text(text, extract_publish_date=True, topic=person_name)
+        print(summary)
 
 def main():
+    # Load environment variables from .env file
+    load_dotenv()
+    
+    # Get credentials from environment variables
+    api_key = os.getenv('API_KEY')
+    search_engine_id = os.getenv('SEARCH_ENGINE_ID')
+    
+    if not api_key or not search_engine_id:
+        print("Error: API_KEY and SEARCH_ENGINE_ID must be set in the .env file")
+        return
+
     # Initialize argparse to handle command-line arguments
     parser = argparse.ArgumentParser(
-        description="Search Google using the Custom Search JSON API.",
-        epilog="Example: python google_search.py \"your query\" \"YOUR_API_KEY\" \"YOUR_SEARCH_ENGINE_ID\""
+        description="Search for recent public activities of a person.",
+        epilog="Example: python google_search.py \"Elon Musk\""
     )
-    parser.add_argument("query", help="The search query (e.g., \"Python programming\").")
-    parser.add_argument("api_key", help="Your Google API key.")
-    parser.add_argument("search_engine_id", help="Your Programmable Search Engine ID (CX).")
+    parser.add_argument("name", help="The person's full name (e.g., \"Elon Musk\").")
     args = parser.parse_args()
+
+    # Build the search query
+    query = f"{args.name} recent public activities in last 3 months"
 
     # Google Custom Search API endpoint
     url = "https://www.googleapis.com/customsearch/v1"
     # Parameters for the API request
     params = {
-        "key": args.api_key,  # API Key
-        "cx": args.search_engine_id,  # Programmable Search Engine ID
-        "q": args.query  # The search query
+        "key": api_key,  # API Key from environment variable
+        "cx": search_engine_id,  # Programmable Search Engine ID from environment variable
+        "q": query  # The search query
     }
 
     try:
@@ -83,12 +109,44 @@ def main():
         if "items" in search_results and len(search_results["items"]) > 0:
             print("\nSearch Results:")
             for item in search_results["items"]:
-                title = item.get('title', 'N/A')
-                link = item.get('link', 'N/A')
-                snippet = item.get('snippet', 'N/A')
-                print(f"\nTitle: {title}")
-                print(f"Link: {link}")
-                print(f"Snippet: {snippet}")
+                url = item.get('link', 'N/A')
+                # Debug print to see the item structure
+                # print("\nItem structure:")
+                # print(json.dumps(item, indent=2))
+                
+                # Get timestamp based on content type
+                pagemap = item.get('pagemap', {})
+                if 'videoobject' in pagemap:
+                    timestamp = pagemap['videoobject'][0].get('datepublished', 'N/A')
+                else:
+                    timestamp = (
+                        pagemap.get('metatags', [{}])[0].get('article:published_time') or
+                        pagemap.get('metatags', [{}])[0].get('og:updated_time') or
+                        pagemap.get('metatags', [{}])[0].get('date') or
+                        pagemap.get('article', [{}])[0].get('datepublished') or
+                        'N/A'
+                    )
+                
+                print(f"\nURL: {url}")
+                print(f"Published: {timestamp}")
+                
+                if is_youtube_video(item):
+                    print("Youtube video")
+                    video_id = extract_video_id(item.get('link', ''))
+                    if video_id:
+                        transcript = get_transcript_with_retry(video_id)
+                        process_and_summarize(transcript, "Transcript", args.name)
+                else:
+                    print("Not a Youtube video")
+                    text = get_webpage_text(item.get('link', ''))
+                    process_and_summarize(text, "Webpage Content", args.name)
+                
+                # title = item.get('title', 'N/A')
+                # link = item.get('link', 'N/A')
+                # snippet = item.get('snippet', 'N/A')
+                # print(f"\nTitle: {title}")
+                # print(f"Link: {link}")
+                # print(f"Snippet: {snippet}")
                 print("-" * 40)
         else:
             # Handle cases where 'items' might be missing or empty,

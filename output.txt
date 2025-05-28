@@ -1,0 +1,1280 @@
+{
+    "status": "ok",
+    "totalResults": 11468,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lauren Goode, Michael Calore, Katie Drummond",
+            "title": "Is Elon Musk Really Stepping Back from DOGE?",
+            "description": "Elon Musk is apparently turning his attention away from Washington and back to Tesla. On this episode of \u2018Uncanny Valley,\u2019 the hosts unpack what Musk\u2019s pivot means for the future of DOGE.",
+            "url": "https://www.wired.com/story/uncanny-valley-podcast-elon-musk-stepping-back-from-doge/",
+            "urlToImage": "https://media.wired.com/photos/682279f7e190eec66cfdf775/191:100/w_1280,c_limit/Uncanny-Valley-Elon-DOGE-Politics.jpg",
+            "publishedAt": "2025-05-17T11:00:00Z",
+            "content": "Michael Calore: This is genius.\r\nKatie Drummond: Thank you.\r\nLauren Goode: This is the reality TV of the future.\r\nKatie Drummond: It's incredible.\r\nLauren Goode: It has arrived.\r\nKatie Drummond: And \u2026 [+3326 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Kylie Robison, Paige Oamek",
+            "title": "Elon Musk's Grok AI Can't Stop Talking About 'White Genocide'",
+            "description": "In response to X user queries about everything from sports to Medicaid cuts, the xAI chatbot inserted unrelated information about \u201cwhite genocide\u201d in South Africa.",
+            "url": "https://www.wired.com/story/grok-white-genocide-elon-musk/",
+            "urlToImage": "https://media.wired.com/photos/6824e4c6bc274113e60afa23/191:100/w_1280,c_limit/Grok-White-Genocide-Business-2201507950.jpg",
+            "publishedAt": "2025-05-14T20:38:16Z",
+            "content": "A chatbot developed by Elon Musks multi-billion-dollar artificial intelligence startup xAI appeared to be suffering from a glitch Wednesday when it repeatedly brought up white genocide in South Afric\u2026 [+2894 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Caroline Haskins",
+            "title": "A Silicon Valley VC Says He Got the IDF Starlink Access Within Days of October 7 Attack",
+            "description": "Sequoia Capital partner Shaun Maguire said in a webinar hosted by Israel\u2019s Defense Ministry that he connected the IDF with SpaceX\u2019s Starlink satellite internet far sooner than believed.",
+            "url": "https://www.wired.com/story/shaun-maguire-starlink-idf-israel-gaza/",
+            "urlToImage": "https://media.wired.com/photos/6827ac879c39728510133cd8/191:100/w_1280,c_limit/starlink-idf-sec-956882342.jpg",
+            "publishedAt": "2025-05-19T16:37:18Z",
+            "content": "Eyal did not reply to two follow-up messages that contained quotes from the webinar and offered Eyal the opportunity to correct or clarify anything that was said.\r\nOn October 20, 2023, the IDF launch\u2026 [+2856 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "David Gilbert",
+            "title": "Violent Threats Against US Judges Are Skyrocketing Online",
+            "description": "Threatening social media posts targeting US judges have increased by more than 300 percent since last year, a new report shows.",
+            "url": "https://www.wired.com/story/violent-threats-us-judges-increase-online/",
+            "urlToImage": "https://media.wired.com/photos/6823993c05ff88327e161aaf/191:100/w_1280,c_limit/judges-threats-pol-%203230495.jpg",
+            "publishedAt": "2025-05-14T17:04:55Z",
+            "content": "Violent threats and calls for impeachment on social media platforms against US judges have skyrocketed by 327 percent since last year, according to new research from the Global Project Against Hate a\u2026 [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Makena Kelly",
+            "title": "DOGE Used Meta AI Model to Review Emails From Federal Workers",
+            "description": "DOGE tested and used Meta\u2019s Llama 2 model to review and classify responses from federal workers to the infamous \u201cFork in the Road\u201d email.",
+            "url": "https://www.wired.com/story/doge-used-meta-ai-model-review-fork-emails-from-federal-workers/",
+            "urlToImage": "https://media.wired.com/photos/682e198ad62b1cdba0d6dfad/191:100/w_1280,c_limit/Politics_DOGEMETAEMAIL_GettyImages-2172913562.jpg",
+            "publishedAt": "2025-05-22T16:57:59Z",
+            "content": "Elon Musks so-called Department of Government Efficiency (DOGE) used artificial intelligence from Metas Llama model to comb through and analyze emails from federal workers.\r\nMaterials viewed by WIRED\u2026 [+2834 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Stephen Clark, Ars Technica",
+            "title": "SpaceX Tests Starship Fixes After Back-to-Back Failures",
+            "description": "The next Starship launch may come as soon as next week.  A recent test of its Raptor engines suggest SpaceX has resolved the issues that plagued its recent flights.",
+            "url": "https://www.wired.com/story/spacex-tests-starship-fixes-after-back-to-back-failures/",
+            "urlToImage": "https://media.wired.com/photos/68250ef9479272f2a734efc0/191:100/w_1280,c_limit/GettyImages-2205158475.jpg",
+            "publishedAt": "2025-05-14T23:31:28Z",
+            "content": "SpaceX founder Elon Musk also wants Starship to fly to Mars, which will, likewise, require a mastery of in-space refueling. NASA may also soon rely on Starship and other massive commercial rockets to\u2026 [+3618 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dominic Preston",
+            "title": "Tesla board denies report it wanted to replace Elon Musk",
+            "description": "Tesla has hit back following a Wall Street Journal report that its board had initiated a search for a new CEO to replace Elon Musk, taking to Musk\u2019s social platform X to call the claim \u201cabsolutely false.\u201d According to the WSJ report, about a month ago Tesla\u2019s\u2026",
+            "url": "https://www.theverge.com/news/659396/tesla-new-ceo-elon-musk-replacement-wsj-report-denial",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355897/STK022_ELON_MUSK_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2025-05-01T09:43:20Z",
+            "content": "After The Wall Street Journal reported a search for a new CEO, the boards chair insists it never happened.\r\nAfter The Wall Street Journal reported a search for a new CEO, the boards chair insists it \u2026 [+2196 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Sam Altman and Elon Musk are racing to build an \u2018everything app\u2019",
+            "description": "Sam Altman and Elon Musk aren't just competing in the AI race; they both have ambitions to build Silicon Valley's holy grail: an \"everything\" super app encompassing finance, social media, gaming, and more. Earlier this week, I got a peek at Altman's plan from\u2026",
+            "url": "https://www.theverge.com/command-line-newsletter/660674/sam-altman-elon-musk-everything-app-worldcoin-x",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Sam-Altman-World-event-CL-site-wide.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-02T23:50:13Z",
+            "content": "Altmans Worldcoin startup is about more than authenticating humans in the age of AGI.\r\nAltmans Worldcoin startup is about more than authenticating humans in the age of AGI.\r\nSam Altman and Elon Musk \u2026 [+7082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Lauren Feiner",
+            "title": "Elon Musk\u2019s DOGE ties could get his companies out of $2 billion in potential liability",
+            "description": "Elon Musk\u2019s expansive portfolio of companies could avoid more than $2.37 billion in potential legal liability due to his unprecedented influence over the US government, a new Senate report finds. The figure comes from a report assembled by Democratic staff fo\u2026",
+            "url": "https://www.theverge.com/news/657042/musk-companies-conflict-of-interest-doge-trump-liability",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKS486_DOGE_DEPARTMENT_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-28T13:01:31Z",
+            "content": "An investigation by Senate Democrats finds Musks influence could benefit SpaceX, Neuralink, and others.\r\nAn investigation by Senate Democrats finds Musks influence could benefit SpaceX, Neuralink, an\u2026 [+3714 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "Elon Musk\u2019s apparent power play at the Copyright Office completely backfired",
+            "description": "What initially appeared to be a power play by Elon Musk and the Department of Government Efficiency (DOGE) to take over the US Copyright Office by having Donald Trump remove the officials in charge has now backfired in spectacular fashion, as Trump's acting r\u2026",
+            "url": "https://www.theverge.com/politics/666179/maga-elon-musk-sacks-copyright-office-perlmutter",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2171594150.jpg?quality=90&strip=all&crop=0,0,100,100",
+            "publishedAt": "2025-05-13T20:47:12Z",
+            "content": "Ripping off content to train AI wasnt going to fly with either MAGA populists or MAGA media.\r\nWhat initially appeared to be a power play by Elon Musk and the Department of Government Efficiency (DOGE\u2026 [+7693 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "The US is reportedly encouraging countries to adopt Musk\u2019s Starlink in tariff trade talks",
+            "description": "The US government is bringing up Starlink adoption in the midst of tariff trade talks with other countries, according to a report from The Washington Post. In recent weeks, several countries have moved forward with licensing the Elon Musk-owned satellite inte\u2026",
+            "url": "https://www.theverge.com/news/663839/us-government-starlink-tariff-talks-elon-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK022_ELON_MUSK_2_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+            "publishedAt": "2025-05-08T20:05:39Z",
+            "content": "India, Lesotho, Bangladesh, and other countries have moved forward with Starlink adoption in recent weeks.\r\nIndia, Lesotho, Bangladesh, and other countries have moved forward with Starlink adoption i\u2026 [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "The State Department reportedly pressured African countries to adopt Elon Musk\u2019s Starlink",
+            "description": "After The Washington Post earlier this month revealed that Secretary of State Marco Rubio had instructed the State Department to help Starlink expand in order to fend off Chinese technological influence, an extensive ProPublica article published Thursday dove\u2026",
+            "url": "https://www.theverge.com/politics/668079/the-state-department-reportedly-pressured-african-countries-to-adopt-elon-musks-starlink",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STKS486_DOGE_DEPARTMENT_Elon-Musk_STK022_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-16T17:25:23Z",
+            "content": "Nice $25 million foreign aid grant youve got there, Gambia. Itd be a shame if DOGE cut it.\r\nNice $25 million foreign aid grant youve got there, Gambia. Itd be a shame if DOGE cut it.\r\nAfter The Washi\u2026 [+3938 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is getting ready to host Elon Musk\u2019s Grok AI model",
+            "description": "Microsoft has been instructing engineers working on its AI infrastructure to get ready to host Elon Musk's Grok AI model, according to a trusted source familiar with the plans. In recent weeks Microsoft has been in discussions with xAI to host the Grok AI mod\u2026",
+            "url": "https://www.theverge.com/notepad-microsoft-newsletter/659535/microsoft-elon-musk-grok-ai-azure-ai-foundry-notepad",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257594_NOTEPAD_GROK_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-01T15:59:56Z",
+            "content": "Grok AI might be coming to Microsofts Azure AI Foundry service.\r\nGrok AI might be coming to Microsofts Azure AI Foundry service.\r\nMicrosoft has been instructing engineers working on its AI infrastruc\u2026 [+10253 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Trump\u2019s 2026 NASA budget would slash ISS crew and allocate more money for Elon",
+            "description": "The Trump administration has released a proposal to cut about a quarter of NASA\u2019s 2026 budget, slashing both International Space Station crew sizes and the amount of research done there. At the same time, it sets up new funding that would likely benefit Elon \u2026",
+            "url": "https://www.theverge.com/news/660721/trump-2026-nasa-budget-cuts",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/International-Space-Station.png?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-05-03T17:24:25Z",
+            "content": "The Presidents priorities are apparent in his proposal to cut about a quarter of NASAs 2026 budget.\r\nThe Presidents priorities are apparent in his proposal to cut about a quarter of NASAs 2026 budget\u2026 [+2295 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Tesla finally calls it quits on Cybertruck range extender",
+            "description": "Tesla has officially scrapped the range extender accessory it was making for Cybertrucks. In emails seen by Electrek, Tesla confirmed to Cybertruck owners that it\u2019s \u201cno longer planning to sell\u201d the $16,000 battery pack, and that it would be issuing full refun\u2026",
+            "url": "https://www.theverge.com/news/663157/tesla-cybertruck-range-extender-cancelled-refunds",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS493_CYBERTRUCK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-08T10:13:23Z",
+            "content": "Customers will be refunded the $2,000 deposits placed to preorder the $16,000 battery pack.\r\nCustomers will be refunded the $2,000 deposits placed to preorder the $16,000 battery pack.\r\nTesla has off\u2026 [+1721 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "Tesla\u2019s cheaper RWD Model Y is now available in the US",
+            "description": "Tesla has started taking orders for its cheaper rear-wheel drive Model Y in the US. The $45,990 vehicle costs $37,490 after federal tax subsidies (as long as they still exist), making it the second-cheapest EV in the company\u2019s lineup after the RWD Model 3. Th\u2026",
+            "url": "https://www.theverge.com/news/662624/tesla-cheaper-rwd-model-y-available-us",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Tesla-Model-Y.png?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+            "publishedAt": "2025-05-07T15:05:58Z",
+            "content": "The $45,000 Tesla comes as the companys sales continue to tank.\r\nThe $45,000 Tesla comes as the companys sales continue to tank.\r\nTesla has started taking orders for its cheaper rear-wheel drive Mode\u2026 [+1190 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla won\u2019t have to report as many Level 2 crashes after Trump\u2019s rule change",
+            "description": "Last week, the US Department of Transportation announced a major change to the Biden-era rule that requires automakers and tech companies to report crashes that involve fully or partially autonomous vehicles. Under the revised rules, companies will no longer \u2026",
+            "url": "https://www.theverge.com/news/657859/tesla-adas-crash-report-nhtsa-sgo-trump-musk",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/GettyImages-2204586440.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-04-29T18:33:52Z",
+            "content": "Tesla represents the bulk of the Level 2 automated crashes to the federal government. But the Trump administration wants to lighten that load.\r\nTesla represents the bulk of the Level 2 automated cras\u2026 [+3850 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Nvidia\u2019s flattery of Trump wins reversal of AI chip limits and a Huawei clampdown",
+            "description": "Nvidia\u2019s efforts to suck up to the Trump administration have seemingly paid off, with the US now lifting export limits on US-made AI chips and cracking down on anyone using Huawei\u2019s emerging alternatives. The announcements come as Nvidia CEO Jensen Huang join\u2026",
+            "url": "https://www.theverge.com/news/666605/nvidias-flattery-of-trump-wins-reversal-of-ai-chip-limits-and-a-huawei-clampdown",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/gettyimages-2214285765.jpg?quality=90&strip=all&crop=32.4%2C38.277472621363%2C57.866662597656%2C45.445057137646&w=1200",
+            "publishedAt": "2025-05-14T10:40:56Z",
+            "content": "Trump (center) and Jensen Huang (lower level, far right) seen posing with the Saudi royal family and other US tech leaders at a Saudi-US business investment forum. | Image: Win McNamee / Getty Images\u2026 [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tina Nguyen",
+            "title": "New surgeon general nominee cofounded \u201cbiowearables\u201d startup with DOGE operative",
+            "description": "Before she was chosen as Donald Trump's latest nominee for Surgeon General, Dr. Casey Means came from the world of healthcare startups - and cofounded one with a tech entrepreneur who's now a key DOGE operative in charge of dismantling the IRS. In 2019, Means\u2026",
+            "url": "https://www.theverge.com/politics/663114/surgeon-general-doge-casey-means-sam-corcos-startup-levels-doge",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23032246/20211026_132108.jpg?quality=90&strip=all&crop=10.8%2C15.63335292153%2C87%2C60.733294156939&w=1200",
+            "publishedAt": "2025-05-08T13:35:05Z",
+            "content": "Casey Means is a MAHA celebrity; her cofounder is now in charge of dismantling the IRS.\r\nCasey Means is a MAHA celebrity; her cofounder is now in charge of dismantling the IRS.\r\nBefore she was chosen\u2026 [+3235 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "Trump\u2019s proposed budget deals another big blow to science, clean energy, and the environment",
+            "description": "President Donald Trump proposed drastic budget cuts today that could stymie green energy projects, gut environmental protections, and further hobble health and climate research in the US. Topline budget proposals released today for the 2026 fiscal year would \u2026",
+            "url": "https://www.theverge.com/news/660579/president-trump-budget-slash-science-health-energy-climate-environment",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-02T21:13:17Z",
+            "content": "It reads like a tirade against climate action and civil rights.\r\nIt reads like a tirade against climate action and civil rights.\r\nPresident Donald Trump proposed drastic budget cuts today that could \u2026 [+4512 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "John Voelcker",
+            "title": "What if Tesla made a Slate-like EV instead of the Cybertruck?",
+            "description": "At last month's rapturously received Slate debut, it took an executive's quip that \"Slate\" and \"Tesla\" use the same 5 letters to shift my brain into high gear. I've covered the EV world for 15-plus years, and I virtually never spend time on counterfactuals. T\u2026",
+            "url": "https://www.theverge.com/tesla/672120/slate-truck-tesla-cybertruck-what-if",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257762_Tesla_slate_not_cybertruck_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-22T01:18:50Z",
+            "content": "Tesla had all the right ingredients to make a small, affordable electric truck. Why didnt it?\r\nTesla had all the right ingredients to make a small, affordable electric truck. Why didnt it?\r\nAt last m\u2026 [+10762 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Alex Heath",
+            "title": "Figma\u2019s CEO on his new approach to AI",
+            "description": "Tech event season is in full swing. This week, Stripe and Figma gathered thousands of people in downtown San Francisco for their respective conferences. I caught up with Figma CEO Dylan Field after his opening keynote at Config, where he announced the most si\u2026",
+            "url": "https://www.theverge.com/command-line-newsletter/664444/figma-ceo-ai-config-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/Dylan-Field-Figma-CEO-CL-site-wide.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-09T22:14:08Z",
+            "content": "Were going to see more software created than ever before because of AI. Also: Meta tries to level up its AI org.\r\nWere going to see more software created than ever before because of AI. Also: Meta tr\u2026 [+11685 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "Microsoft is racing to build an AI \u2018agent factory\u2019",
+            "description": "When Microsoft CEO Satya Nadella ran into Meta's former engineering chief, Jay Parikh, at a conference last summer, he had the future of AI top of mind. The pair have known each other for around 15 years, but this meeting was different, and Nadella called Par\u2026",
+            "url": "https://www.theverge.com/notepad-microsoft-newsletter/672598/microsoft-ai-agent-factory-jay-parikh-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257772_AI_agent_factory_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-22T15:51:43Z",
+            "content": "An interview with Microsofts new CoreAI chief.\r\nAn interview with Microsofts new CoreAI chief.\r\nWhen Microsoft CEO Satya Nadella ran into Metas former engineering chief, Jay Parikh, at a conference l\u2026 [+15236 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Yessenia Funes",
+            "title": "Indigenous scientists are fighting to protect their data \u2014 and their culture",
+            "description": "Every month, a group of Indigenous scientists from around the world gathers on Zoom. They never have an agenda. They meet as colleagues to catch up and commiserate about the challenges of being Indigenous in Western academia. Their February meeting, however, \u2026",
+            "url": "https://www.theverge.com/features/664282/indigenous-data-sovereignty-native-trump-musk-dei",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257681_Indigenous_data_sovereignty_GLocke_0007.jpg?quality=90&strip=all&crop=0%2C8.4933100639907%2C100%2C83.013379872019&w=1200",
+            "publishedAt": "2025-05-09T20:56:53Z",
+            "content": "The Trump administrations war on DEI is spurring scientists and researchers from Indigenous communities to seek new protections for their data. \r\nEvery month, a group of Indigenous scientists from ar\u2026 [+11692 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Gaby Del Valle",
+            "title": "Grifters thrive under Trump\u2019s scam-friendly administration",
+            "description": "On April 22nd, Fight Fight Fight LLC, a company with ties to President Donald Trump, announced that the 220 top investors in its meme coin $TRUMP would be invited to meet with Trump himself. The event was billed as an \"intimate private\" dinner, but with obvio\u2026",
+            "url": "https://www.theverge.com/policy/662109/trump-white-house-scams-crypto-cfpb-doj-sec",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257732_Trump_trickle_down_scam__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "publishedAt": "2025-05-06T21:12:30Z",
+            "content": "Grifters thrive under Trumps scam-friendly administration\r\nGutted watchdog agencies and unprecedented influence peddling means unrestrained fraud.\r\nGrifters thrive under Trumps scam-friendly administ\u2026 [+11486 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Nilay Patel",
+            "title": "Fired FTC commissioners on fighting for their jobs back",
+            "description": "Today, we have something special for you: A few days ago, I hosted a panel with FTC commissioners Rebecca Slaughter and Alvaro Bedoya at the IAPP Global Privacy Summit in Washington, DC. We recorded the discussion, and we\u2019re bringing it to you today. That\u2019s a\u2026",
+            "url": "https://www.theverge.com/decoder-podcast-with-nilay-patel/657115/ftc-bedoya-slaughter-trump-fired-supreme-court-interview",
+            "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DCD-Bedoya-Slaughter-2.png?quality=90&strip=all&crop=0%2C10.711631919237%2C100%2C78.576736161526&w=1200",
+            "publishedAt": "2025-04-28T14:00:17Z",
+            "content": "Fired FTC commissioners on fighting for their jobs back\r\nAlvaro Bedoya and Rebecca Slaughter want to take their fight to the Supreme Court, and they think they can win.\r\nFired FTC commissioners on fi\u2026 [+45090 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "DOGE Recruits College Kid to Help Rewrite Housing Regulations with AI",
+            "description": "The Elon-Musk-led initiative never ceases to amaze.",
+            "url": "https://gizmodo.com/doge-recruits-college-kid-to-help-rewrite-housing-regulations-with-ai-2000596710",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/03/Elon-Musk-on-Capitol-Hill-March-5-2025-GettyImages-2202898259-copy.jpg",
+            "publishedAt": "2025-05-01T12:35:44Z",
+            "content": "Elon Musk may be leaving Washington D.C., but his DOGE initiative continues to rampage through the government, causing chaos and cutting vital federal programs that millions of Americans rely on.\r\nCa\u2026 [+2881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Elon Musk Gets His Wish: OpenAI Will Remain a Nonprofit",
+            "description": "The company will abandon plans to restructure.",
+            "url": "https://gizmodo.com/elon-musk-gets-his-wish-openai-will-remain-a-nonprofit-2000598285",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/03/7d2b1c96e0c9e9a3b5952ca91eee0ea9.jpg",
+            "publishedAt": "2025-05-05T20:45:50Z",
+            "content": "OpenAI CEO Sam Altman has been working on wriggling out from under the control of the company\u2019s nonprofit board ever since they (briefly) fired him. But, after several efforts to prevent the move, in\u2026 [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "After Back-to-Back Flops, SpaceX Says Starship\u2019s 9th Test Flight Is a Go",
+            "description": "This next flight marks a critical moment for SpaceX as the Elon Musk-led company attempts to get its Starship program back on track.",
+            "url": "https://gizmodo.com/after-back-to-back-flops-spacex-says-starships-9th-test-flight-is-a-go-2000606706",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/SpaceX-Starship-Separation.jpg",
+            "publishedAt": "2025-05-23T20:00:26Z",
+            "content": "SpaceXs Starship is set to launch as soon as Tuesday, May 27, after receiving the go-ahead from the Federal Aviation Administration (FAA) this week.\u00a0\r\nThis will be the ninth test flight for this heav\u2026 [+3372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Vanessa Taylor",
+            "title": "\u2018Textbook Case of Corruption\u2019: Democratic Senators Call for Ethics Investigation Into Starlink\u2019s Recent Trade Deals",
+            "description": "In an open letter, the senators expressed concerns that the Trump administration may be offering countries tariff relief if they do business with Elon Musk.",
+            "url": "https://gizmodo.com/textbook-case-of-corruption-democratic-senators-call-for-ethics-investigation-into-starlinks-recent-trade-deals-2000603555",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/elon-musk-qatar-may-14-2025.jpg",
+            "publishedAt": "2025-05-17T13:00:28Z",
+            "content": "Starlink, Elon Musk\u2019s satellite internet constellation that is run through SpaceX, has caught legislators\u2019 attention. Democratic Senators this week called for an investigation into whether the Trump \u2026 [+3105 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Vanessa Taylor",
+            "title": "Lawsuit Claims Elon Musks\u2019 Pro-Trump PAC Failed to Pay Swing-State Petition Signees",
+            "description": "During the 2024 elections, Musk dropped over a quarter of a billion backing Republican candidates. Now, he may owe voters $5,000,00.",
+            "url": "https://gizmodo.com/lawsuit-claims-elon-musks-pro-trump-pac-failed-to-pay-swing-state-petition-signees-2000602767",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/elon-musk-feb-20-2025.jpg",
+            "publishedAt": "2025-05-15T17:05:54Z",
+            "content": "Elon Musk has no shame about throwing around money to get what he wants. Or at least, he has no problem making big promises about it. During the 2024 election season, Musk pledged to pay swing-state \u2026 [+4585 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Elon Musk Brings Starlink to Saudi Arabia as U.S. Oligarchs Join Trump in Middle East",
+            "description": "Trump bragged about the multi-billion dollar deals between Saudi Arabia and Big Tech.",
+            "url": "https://gizmodo.com/elon-musk-brings-starlink-to-saudi-arabia-as-u-s-oligarchs-join-trump-in-middle-east-2000601601",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/elon-musk-saudi-arabia-may-13-2025.jpg",
+            "publishedAt": "2025-05-13T17:10:32Z",
+            "content": "Elon Musk says his satellite internet provider Starlink, a part of SpaceX, has been approved in Saudi Arabia for maritime and aviation use. The billionaire made the announcement while being interview\u2026 [+5161 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Bill Gates Accuses Elon Musk of \u2018Killing the World\u2019s Poorest Children\u2019 With DOGE Cuts",
+            "description": "The cuts have done clear harm with barely any good to show for it.",
+            "url": "https://gizmodo.com/bill-gates-accuses-elon-musk-of-killing-the-worlds-poorest-children-with-doge-cuts-2000599732",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/06/13e249628188154df0afc202a767285c.jpg",
+            "publishedAt": "2025-05-08T18:10:30Z",
+            "content": "Bill Gates is not impressed by Elon Musk\u2019s work with the Department of Government Efficiency. In an interview with the Financial Times, he described Musk\u2019s work as hurting the most vulnerable people \u2026 [+3220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Trump Says \u2018Internet People\u2019 Are \u2018Kissing My Ass\u2019 in Bizarre Speech",
+            "description": "\"Elon is so terrific,\" the president told graduates at the University of Alabama.",
+            "url": "https://gizmodo.com/trump-says-internet-people-are-kissing-my-ass-in-bizarre-speech-2000597280",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Donald-Trump-alabama-may-1-2025.jpg",
+            "publishedAt": "2025-05-02T16:20:31Z",
+            "content": "President Donald Trump gave a speech to 2025 graduates of the University of Alabama on Thursday night, where he rambled about tariffs, the so-called \u201cgolden age\u201d of America, and trans athletes. But i\u2026 [+5055 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Voters Head to the Polls to Decide If Elon Musk Should Get a Company Town in Texas",
+            "description": "SpaceX could incorporate its own town as soon as tomorrow.",
+            "url": "https://gizmodo.com/voters-head-to-the-polls-to-decide-if-elon-musk-should-get-a-company-town-in-texas-2000597539",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/SpaceX-base.jpg",
+            "publishedAt": "2025-05-03T12:30:27Z",
+            "content": "The \u201ccompany town\u201d is largely an artifact of a bygone eraa vestige of an unhappy time in American history when wealthy land barons controlled society, and labor rights, at least as we know them today\u2026 [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lucas Ropek",
+            "title": "Elon Musk\u2019s X Is Reportedly Taking Money From Members of Terrorist Groups",
+            "description": "The billionaire's social media site is awash in extremist content from sanctioned terrorist groups, a report claims.",
+            "url": "https://gizmodo.com/elon-musks-x-is-reportedly-taking-money-from-members-of-terrorist-groups-2000602888",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Elon-1.jpg",
+            "publishedAt": "2025-05-15T20:15:39Z",
+            "content": "When he bought Twitter in 2022, Elon Musk made it known that he wanted the site to be accepting of people from all different backgrounds. \u201cOur platform must be warm and welcoming to all, the billiona\u2026 [+3857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "AJ Dellinger",
+            "title": "Elon Musk\u2019s Grok AI Has a Problem: It\u2019s Too Accurate for Conservatives",
+            "description": "MAGA folks can't believe their preferred chatbot won't reaffirm all their beliefs.",
+            "url": "https://gizmodo.com/elon-musks-grok-ai-has-a-problem-its-too-accurate-for-conservatives-2000597568",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/GettyImages-2212146059.jpg",
+            "publishedAt": "2025-05-03T11:30:09Z",
+            "content": "Grok, the artificial intelligence chatbot created by Elon Musk\u2019s xAI, was supposed to be the \u201canti-woke\u201d AI that would satisfy the MAGA masses by doing what other chatbots refuse to do, like\u2026spreadin\u2026 [+2980 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "SpaceX Employee With Crohn\u2019s Says He Was Fired for Needing the Bathroom Too Often",
+            "description": "Douglas Altshuler is the latest SpaceX employee to allege that he was fired for unjust reasons.",
+            "url": "https://gizmodo.com/spacex-employee-with-crohns-says-he-was-fired-for-needing-the-bathroom-too-often-2000601495",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Spacex.jpg",
+            "publishedAt": "2025-05-13T15:50:47Z",
+            "content": "Former SpaceX employee Douglas Altshuler is taking aim at the Musk-owned company in a new federal discrimination lawsuit.\r\nThe 58-year-old Washington resident and his lawyers filed the lawsuit last m\u2026 [+3741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Oscar Collins",
+            "title": "How Tesla Could Skirt Trump\u2019s Tariffs While Everyone Else Pays Up",
+            "description": "Trump\u2019s tariffs are set to \u201cblow a hole in U.S. industry,\u201d according to Ford\u2019s CEO, but some automakers like Tesla might not feel the pain.",
+            "url": "https://gizmodo.com/how-tesla-could-skirt-trumps-tariffs-while-everyone-else-pays-up-2000597589",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/Tesla-elon-musk-protest.jpg",
+            "publishedAt": "2025-05-03T11:00:09Z",
+            "content": "President Trumps sweeping tariff changes have stirred up considerable economic uncertainty and confusion. Higher import duties will affect at least some products in virtually every industry, but some\u2026 [+4909 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Vanessa Taylor",
+            "title": "Only 22 U.S. States Met Bare-Minimum Broadband Internet Speeds in 2024",
+            "description": "Last year, the FCC increased its minimum standard for broadband speeds for the first time in a decade. But many states are struggling to meet those standards.",
+            "url": "https://gizmodo.com/only-22-u-s-states-met-bare-minimum-broadband-internet-speeds-in-2024-2000604081",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/04/56027a8a19cc06e32f5ac2d22f173c05.jpg",
+            "publishedAt": "2025-05-19T18:12:46Z",
+            "content": "Sometimes, people assume that solving the digital divide begins and ends at giving everyone internet access. But what good is a connection if it\u2019s too slow for you to actually do anything? That\u2019s why\u2026 [+3661 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Amazon Finally Enters the Satellite Internet Race, Taking on SpaceX\u2019s Starlink",
+            "description": "The first operational batch of Project Kuiper satellites reached orbit Monday, kickstarting the deployment of a long-delayed broadband constellation.",
+            "url": "https://gizmodo.com/amazon-finally-enters-the-satellite-internet-race-taking-on-spacexs-starlink-2000595685",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/project-kuiper-liftoff.jpeg",
+            "publishedAt": "2025-04-29T15:35:46Z",
+            "content": "Amazon has a lot of catching up to do when it comes to building a constellation of internet satellites in low Earth orbit, but the company has successfully deployed its first mission in an effort to \u2026 [+2542 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Alex Jones Shares Fake Photo of Pro-Ukraine Leaders With \u2018Cocaine\u2019 on Train",
+            "description": "The conspiracy theorist has a long history of spreading pro-Putin garbage.",
+            "url": "https://gizmodo.com/alex-jones-shares-fake-photo-of-pro-ukraine-leaders-with-cocaine-on-train-2000601049",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/05/may-9-kiev-european-leaders.jpg",
+            "publishedAt": "2025-05-12T21:50:13Z",
+            "content": "Video footage of European political leaders taking a train to Ukraine went viral on Sunday after conspiracy theorists claimed that it showed cocaine on a table in front of French President Emannuel M\u2026 [+4695 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ellyn Lapointe",
+            "title": "Florida Environmentalists Sound Alarm on SpaceX Bid to Launch 120 Rockets a Year",
+            "description": "Local advocacy groups argue the ambitious launch schedule could increase pollution, harm wildlife, and disrupt fishing.",
+            "url": "https://gizmodo.com/florida-environmentalists-sound-alarm-on-spacex-bid-to-launch-120-rockets-a-year-2000603090",
+            "urlToImage": "https://gizmodo.com/app/uploads/2023/06/87a53bc3c3a5ac60389e978138f55307.jpg",
+            "publishedAt": "2025-05-16T16:05:38Z",
+            "content": "Elon Musks SpaceX launched its 475th Falcon 9 rocket from Cape Canaveral, Florida, on Wednesday, delivering yet another batch of Starlink satellites to space. This workhorse is far and away the most-\u2026 [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jake Pearson, ProPublica",
+            "title": "DOGE Aide Involved in Dismantling Consumer Bureau Owns Stock in Companies That Could Benefit From Cuts",
+            "description": "Gavin Kliger helped oversee mass firings at the Consumer Financial Protection Bureau and could be violating federal ethics laws.",
+            "url": "https://gizmodo.com/doge-aide-involved-in-dismantling-consumer-bureau-owns-stock-in-companies-that-could-benefit-from-cuts-2000596007",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/12/MuskCapone.jpg",
+            "publishedAt": "2025-04-29T19:20:53Z",
+            "content": "ProPublica is a Pulitzer Prize-winning investigative newsroom. Sign up for The Big Story newsletter to receive stories like this one in your inbox.A federal employee who is helping the Trump administ\u2026 [+8406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "White House Panics After Report Claims Amazon Will Display Tariff Prices",
+            "description": "\"This is a hostile and political act by Amazon,\u201d the White House Press Secretary said.",
+            "url": "https://gizmodo.com/white-house-panics-after-report-claims-amazon-will-display-tariff-prices-2000595722",
+            "urlToImage": "https://gizmodo.com/app/uploads/2025/04/karoline-leavitt-april-29-2025.jpg",
+            "publishedAt": "2025-04-29T17:16:07Z",
+            "content": "White House officials held a press conference Tuesday morning to talk about the economy, as Americans get extremely nervous about the tariffs on China that are starting to cause prices to rise. And w\u2026 [+8039 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Bill Gates plans to give away most of his fortune by 2045",
+            "description": "The Microsoft founder says he plans to accelerate his charitable giving - and accused Elon Musk and Doge of 'killing children'.",
+            "url": "https://www.bbc.com/news/articles/cx2e87lzqkdo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6e7f/live/7624e040-2c1c-11f0-b26b-ab62c890638b.jpg",
+            "publishedAt": "2025-05-08T15:48:08Z",
+            "content": "Microsoft founder Bill Gates said he intends to give away 99% of his vast fortune over the next 20 years.\r\nGates said he would accelerate his giving via his foundation, with plans to end its operatio\u2026 [+3474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "What should Democrats do now? Everyone has a different answer",
+            "description": "One hundred days into Trump's second term, Democrats are still reckoning with an election loss and debating the fate of the party",
+            "url": "https://www.bbc.com/news/articles/czjnw42p8lro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4b73/live/40e90410-216d-11f0-a3fc-e5a8a295b47f.jpg",
+            "publishedAt": "2025-04-27T01:33:37Z",
+            "content": "Kayla EpsteinReporting from\r\nBakersfield, California\r\nSenator Bernie Sanders, an Independent, and Congresswoman Alexandria Ocasio-Cortez hold a rally in Los Angeles \r\nDemocrats have struggled to land\u2026 [+6810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Relief on China's factory floors as US tariffs put on hold",
+            "description": "A surprise deal in the trade war gives businesses breathing room - but many now want to find new markets.",
+            "url": "https://www.bbc.com/news/articles/cy8d9ygd4yqo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/219c/live/ffce3f90-30c6-11f0-8947-7d6241f9fce9.png",
+            "publishedAt": "2025-05-14T13:40:27Z",
+            "content": "Laura Bicker\r\nDerek Wang spent almost half a million dollars setting up his company \r\nThere's a vast empty space in the middle of the factory floor in Foshan in southern China where workers should be\u2026 [+7172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Sarah Smith: Trump's breakneck start is fraught with political risk",
+            "description": "After 100 days of action and noise, there are dangers to the administration's shock-and-awe approach.",
+            "url": "https://www.bbc.com/news/articles/crm30ddlj0xo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3905/live/fba7e0e0-24b1-11f0-8c66-ebf25fc2cfef.jpg",
+            "publishedAt": "2025-04-29T04:53:09Z",
+            "content": "Sarah Smith\r\nWatch: Trumps first 100 days in just 2 minutes\r\nWithin hours of taking his second oath of office, Donald Trump signed a flurry of executive orders and declarations, and fired the startin\u2026 [+8465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Ramaphosa keeps cool during Trump's choreographed onslaught",
+            "description": "The BBC's Gary O'Donoghue analyses how the South African president reacted in an extraordinary Oval Office meeting.",
+            "url": "https://www.bbc.com/news/articles/c753rlw4430o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4d8f/live/52ad76a0-36ac-11f0-8519-3b5a01ebe413.jpg",
+            "publishedAt": "2025-05-22T01:48:07Z",
+            "content": "Gary O'DonoghueBBC News, Chief North America Correspondent\r\nThree months into Donald Trump's second term, foreign leaders should be aware that a coveted trip to the Oval Office comes with the risk of\u2026 [+4221 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "The rapid remaking of a nation, in 100 days",
+            "description": "The impact of what President Trump has done so far is being felt in every corner of American life.",
+            "url": "https://www.bbc.com/news/articles/cly1n7jz587o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0219/live/9304a8d0-21c7-11f0-9c65-a5c3dc449bf3.png",
+            "publishedAt": "2025-04-27T23:34:09Z",
+            "content": "Anthony Zurcher and Tom Geoghegan\r\nDuring last year's presidential campaign, Donald Trump constantly repeated his intention to bring about dramatic change as soon as he returned to the White House.\r\n\u2026 [+16734 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "'I didn't come here for fun' - Afrikaner defends refugee status in US",
+            "description": "Charl Kleinhaus tells the BBC he had no choice but to leave his farm in South Africa after receiving death threats.",
+            "url": "https://www.bbc.com/news/articles/c98p3eple9eo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/750b/live/07aa2b80-31c0-11f0-96c3-cf669419a2b0.jpg",
+            "publishedAt": "2025-05-15T22:28:58Z",
+            "content": "Nomia Iqbal and Cai PigliucciBBC News, Buffalo, New York\r\nThe BBC's Nomia Iqbal asks an Afrikaner about his refugee status in the US and about being called a \"coward\"\r\nLast week, 46-year-old Charl Kl\u2026 [+7329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "New era beckons for Air Force One after Qatari offer - but what's it like inside?",
+            "description": "The famous Boeing 747 which has been part of the fabric of US history for decades could soon be supplied by Qatar.",
+            "url": "https://www.bbc.com/news/articles/c5ygvn5g452o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9d12/live/b8d28820-326b-11f0-8519-3b5a01ebe413.jpg",
+            "publishedAt": "2025-05-17T23:24:46Z",
+            "content": "Anthony Zurcher\r\nMost journalists travelling with the US president don't see much of the interior of Air Force One, the presidential jet. \r\nThe press cabin is in the back of the plane, accessible by \u2026 [+7260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "This week proves Nigel Farage's PM ambition is not a wild notion",
+            "description": "The next General Election is miles away and parties can surge and sink, but this week's results show Farage has changed the race, writes Laura Kuenssberg.",
+            "url": "https://www.bbc.com/news/articles/cx20zgwve43o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/897d/live/2ba5e3b0-2759-11f0-8c66-ebf25fc2cfef.png",
+            "publishedAt": "2025-05-03T16:06:04Z",
+            "content": "In the first week of 2025, Nigel Farage told me his ultimate goal was to become prime minister. It stuck in my mind that he chose to add: \"I'm not joking.\"\r\nNobody in the two traditional main parties\u2026 [+6767 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Abrar Al-Heeti",
+            "title": "Zoox's Self-Driving Test Fleet Is Coming to Atlanta",
+            "description": "It's the Amazon-owned company's seventh test market, with plans to start autonomous driving there this summer.",
+            "url": "https://www.cnet.com/roadshow/news/zooxs-self-driving-test-fleet-is-coming-to-atlanta/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/19b468d54eb038d6795a8ae814d2bfd020f9e951/hub/2025/05/18/05e68ef4-1e9d-4511-98b7-f81614ffecb4/atl.png?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-20T14:00:09Z",
+            "content": "Zoox, the Amazon-owned self-driving company, is expanding its test fleet to Atlanta. It'll soon begin testing its autonomous technology there aboard retrofitted Toyota Highlander SUVs, before residen\u2026 [+2435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Amanda Kooser",
+            "title": "100 Men vs. 1 Gorilla: But What if It's King Kong?",
+            "description": "The viral question of whether 100 men could win in a fight against one gorilla gets more complicated when the ape is a super-sized titan.",
+            "url": "https://www.cnet.com/culture/entertainment/100-men-vs-1-gorilla-but-what-if-its-king-kong/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/0cdbffef5e26242ca88dd56c96ed89fae961566f/hub/2017/03/07/061dd6cd-39a6-43dc-b022-11cdbe1d5854/kong-skull-island-main.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2025-05-01T20:44:00Z",
+            "content": "I love hypothetical questions. I would rather fight 100 duck-sized horses than one horse-sized duck. But I'm still scratching my head over a viral question that's romping around social media: Who wou\u2026 [+4172 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "5 charts that show Elon Musk and Tesla's struggles during Trump's first 100 days",
+            "description": "Elon Musk's foray into politics has stoked protests and fears of damage to the Tesla brand. Here's how Musk has fared early in Trump's second term.",
+            "url": "https://www.businessinsider.com/elon-musk-net-worth-tesla-sales-down-trump-100-days-2025-4",
+            "urlToImage": "https://i.insider.com/680f9d24c6ad288d147f4f73?width=1200&format=jpeg",
+            "publishedAt": "2025-04-28T18:36:54Z",
+            "content": "Elon Musk was viewed as a big winner of President Donald Trump's election, but the first 100 days of the new administration haven't been all that smooth for the world's richest person.\r\nMusk bet big \u2026 [+3680 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tcarter@businessinsider.com (Tom Carter)",
+            "title": "Elon Musk dreams of thousands of robots working in factories. Tesla's first Optimus lead has doubts.",
+            "description": "Chris Walti, the former team lead for Tesla's robot, said humanoid robots like Optimus were the wrong option for factory work.",
+            "url": "https://www.businessinsider.com/teslas-first-optimus-lead-doubts-about-elon-musks-robot-dream-2025-5",
+            "urlToImage": "https://i.insider.com/682deca2c6ad288d148186bf?width=1200&format=jpeg",
+            "publishedAt": "2025-05-25T08:00:02Z",
+            "content": "Elon Musk dreams of Tesla's Optimus robots working in huge numbers in factories but not everyone is convinced.\r\nChris Walti, the former team lead for Tesla's robot, told Business Insider that humanoi\u2026 [+4134 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gkay@businessinsider.com (Grace Kay,Lloyd Lee)",
+            "title": "Tesla's robotaxi will compete with Waymo in Austin. Here's how the two companies compare.",
+            "description": "Tesla launches its robotaxi in Austin this June, taking on Waymo. Here's how the two self-driving giants compare on tech and strategy.",
+            "url": "https://www.businessinsider.com/tesla-waymo-robotaxi-comparison-2025-5",
+            "urlToImage": "https://i.insider.com/6814f4cec6ad288d147fdca6?width=1200&format=jpeg",
+            "publishedAt": "2025-05-06T08:43:02Z",
+            "content": "In June, Tesla is set to roll out its robotaxi service in Austin, going bumper to bumper with Waymo.\r\nAustin is the first city where Tesla plans to test its tech with consumers. Alphabet-backed Waymo\u2026 [+7118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "NPR",
+            "title": "Connecting the dots on DOGE",
+            "description": "It's been six months since President Trump first announced the creation of the Department of Government Efficiency initiative, which has dramatically shrunk parts of the federal government. And with so many individual stories about federal workers losing thei\u2026",
+            "url": "https://www.npr.org/2025/05/16/1251782097/connecting-the-dots-on-doge",
+            "urlToImage": "https://media.npr.org/assets/img/2025/05/16/gettyimages-2200924488_wide-a3bd24fba8e81c73a7c4fc7f4677c8fa5b8894c9.jpg?s=1400&c=100&f=jpeg",
+            "publishedAt": "2025-05-16T21:13:58Z",
+            "content": "CEO of Tesla and SpaceX Elon Musk leaves the stage holding a chainsaw after speaking at the Conservative Political Action Conference (CPAC) on February 20.\r\nAndrew Harnik/Getty Images\r\nIt's been six \u2026 [+955 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Kate Bartlett",
+            "title": "South Africa's president heads to the White House. Can he charm Trump?",
+            "description": "South African President Cyril Ramaphosa heads to the White House today for conciliatory talks with one of his country's most persistent critics: President Trump.",
+            "url": "https://www.npr.org/2025/05/21/nx-s1-5404667/south-africa-white-house-visit-ramaphosa-trump-tensions",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7393x4159+0+385/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F78%2F94%2Fca3525db404fae60fee140fa47f7%2Fap25140683113045.jpg",
+            "publishedAt": "2025-05-21T06:28:09Z",
+            "content": "JOHANNESBURG South African President Cyril Ramaphosa is set to meet Donald Trump at the White House today, in an attempt to reset relations between the two countries after the U.S. president's contin\u2026 [+5222 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Scott Neuman",
+            "title": "Germany's domestic intelligence labels right-wing AfD party as extremist",
+            "description": "Germany's domestic intelligence agency has formally designated the Alternative for Germany party as extremist, a move likely to further isolate the country's largest opposition party.",
+            "url": "https://www.npr.org/2025/05/02/g-s1-64037/afd-germany-extremist-alternative",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x4644+0+430/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F00%2F459c6add48f489f9d8f71138e0df%2Fgettyimages-2206216695.jpg",
+            "publishedAt": "2025-05-02T20:02:47Z",
+            "content": "Germany's domestic intelligence agency has formally designated the far-right Alternative for Germany (AfD) as extremist a move likely to further isolate the group that has emerged as the country's la\u2026 [+2150 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Stephen Fowler",
+            "title": "What has DOGE done in Trump's first 100 days?",
+            "description": "100 days into President Trump's second term, DOGE hasn't delivered on its promised savings, efficiency or transparency in meaningful ways. But it has amassed unprecedented power over government data.",
+            "url": "https://www.npr.org/2025/04/28/nx-s1-5377445/doge-musk-trump-100-days",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6465x3637+0+245/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2Fab%2F4eee636641109811b22e3cfbee9e%2Fgettyimages-2200925117.jpg",
+            "publishedAt": "2025-04-28T09:00:00Z",
+            "content": "When President Trump returned to the White House in January, he promised to \"restore competence and effectiveness\" to the federal government by establishing a Department of Government Efficiency.\r\nIn\u2026 [+17110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Kate Bartlett",
+            "title": "Trump's debunked 'burial site' video reopens 'wounds,' says victim's son",
+            "description": "Trump's misleading video of a 'burial site' for white South African farmers reopened 'new wounds,' victim's son tells NPR.",
+            "url": "https://www.npr.org/2025/05/24/nx-s1-5408981/trumps-debunked-burial-site-video-reopens-wounds-says-victims-son",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8075x4542+0+422/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F06%2F76%2F828a63624520875a206949c77c2d%2Fgettyimages-2215661734.jpg",
+            "publishedAt": "2025-05-24T12:00:00Z",
+            "content": "JOHANNESBURG President Trump claims a \"genocide\" of white people, particularly Afrikaner farmers, is taking place in South Africa.\r\nWhen he met the country's president, Cyril Ramaphosa, in the Oval O\u2026 [+4006 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Emma Bowman",
+            "title": "May Day protesters will rally nationwide against the 'war on working people'",
+            "description": "May Day is not officially acknowledged in the U.S. because of what historians say is an ongoing resistance to unity among the working class. This resistance is prompting protesters to take action on Thursday, regardless.",
+            "url": "https://www.npr.org/2025/04/30/nx-s1-5382560/may-day-protests-history-trump",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2485x1398+0+308/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0c%2F4e%2F328520d34570beea14baf107aab1%2Fap18121187248316.jpg",
+            "publishedAt": "2025-05-01T01:45:08Z",
+            "content": "Tens of thousands of protesters are expected to take to the streets nationwide on Thursday in May Day rallies opposing the Trump administration.\r\nMay Day, celebrated by workers across the globe as In\u2026 [+4130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Hansi Lo Wang",
+            "title": "David Steiner of FedEx is tapped to be the U.S. Postal Service's new leader",
+            "description": "The U.S. Postal Service's governing board has named David Steiner, a board member of USPS competitor FedEx, to be the next postmaster general following the controversial term of Louis DeJoy.",
+            "url": "https://www.npr.org/2025/05/09/nx-s1-5384252/usps-david-steiner-who-is-the-postmaster-general",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2Fe1%2Fc6b679cf49569494c2b197e7f8ad%2Fgettyimages-184791127.jpg",
+            "publishedAt": "2025-05-09T14:43:39Z",
+            "content": "David Steiner will lead the U.S. Postal Service as the next postmaster general, as the federal mail agency faces an uncertain future under the Trump administration.\r\nAmber McReynolds, chair of the US\u2026 [+3960 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Susan Davis",
+            "title": "First 100 days: Congress acquiesces to Trump but pressure tests lie ahead",
+            "description": "President Trump has shown no deference to Congress in his early day in office, and leaders on Capitol Hill seem willing to cede him more power.",
+            "url": "https://www.npr.org/2025/04/30/g-s1-63360/first-100-days-congress-acquiesces-to-trump-but-pressure-tests-ahead",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8049x4528+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F44%2Fd188bbe44688a350f62c1dda7467%2Fgettyimages-2197984220.jpg",
+            "publishedAt": "2025-04-30T21:50:10Z",
+            "content": "If Trump has adopted the Silicon Valley ethos of \"move fast and break things\" for his second term, then \"move slow and get out of the way\" could be the corresponding marching orders on Capitol Hill.\r\u2026 [+9000 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Camila Domonoske",
+            "title": "This office was meant to bridge divides in government. Now it's empty",
+            "description": "Congress created the Joint Office of Energy and Transportation to unite the expertise of two different agencies that work on electric vehicle charging. Now it seems to have turned into a ghost ship.",
+            "url": "https://www.npr.org/2025/05/01/nx-s1-5382546/joint-office-electric-vehicles-shrinking-government",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5246x2951+0+344/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F15%2Ff8abd29f41a4973f3ce5d057ccd8%2Fgettyimages-2205758310.jpg",
+            "publishedAt": "2025-05-01T09:00:00Z",
+            "content": "The Joint Office of Energy and Technology, an unusual federal office that was established by a bipartisan act of Congress in 2021, has been so deeply affected by efforts to shrink the government that\u2026 [+8728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Tom Dreisbach",
+            "title": "Trump has used government powers to target more than 100 perceived enemies",
+            "description": "Through ICE arrests, criminal investigations, firings and executive orders, the president has launched a sweeping campaign of retribution. One judge called his actions \"a shocking abuse of power.\"",
+            "url": "https://www.npr.org/2025/04/29/nx-s1-5327518/donald-trump-100-days-retribution-threats",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2025+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fa2%2F9b3ffd8e4495a1f0c13ea58f8b7c%2Fnpr-trumpenemies-final.jpg",
+            "publishedAt": "2025-04-29T09:00:00Z",
+            "content": "When Donald Trump campaigned for president, he promised his followers payback.\r\n\"I am your retribution,\" he said in 2023.\r\nIt was not just campaign rhetoric.\r\nIn the first 100 days of his second term\u2026 [+32231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Chiara Eisner",
+            "title": "Diseases are spreading. The CDC isn't warning the public like it was months ago",
+            "description": "Some of the CDC's main channels for communicating urgent health information to the public have gone silent.",
+            "url": "https://www.npr.org/2025/05/21/nx-s1-5387723/cdc-communications-cuts-social-media-public-health",
+            "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2317x1303+590+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F67%2F9e5235ae4db1a1ad96e51ee6783d%2Fgettyimages-2206773664-edit.jpg",
+            "publishedAt": "2025-05-21T09:00:00Z",
+            "content": "To accomplish its mission of increasing the health security of the U.S., the Centers for Disease Control and Prevention states\r\n that it \"conducts critical science and provides health information\" to\u2026 [+12699 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jordan Hart",
+            "title": "Elon Musk bashes Bill Gates' comments on USAID: 'Show us any evidence'",
+            "description": "Elon Musk challenged Bill Gates' claims that gutting USAID would result in millions of deaths.",
+            "url": "https://www.businessinsider.com/elon-musk-responds-bill-gates-over-usaid-cuts-2025-5",
+            "urlToImage": "https://i.insider.com/682caf1c68a292900801cdd4?width=1200&format=jpeg",
+            "publishedAt": "2025-05-20T19:02:05Z",
+            "content": "Elon Musk and Bill Gates have traded words over DOGE's USAID cuts.Reuters\r\n<ul><li>Elon Musk challenged Bill Gates' criticism of DOGE's USAID budget cuts.</li><li>Gates has claimed DOGE's cuts could \u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Alice Tecotzky",
+            "title": "Elon Musk says Starlink is coming to Saudi Arabia",
+            "description": "Musk said that Saudi Arabia had approved Starlink, his satellite internet service, for maritime and aviation use.",
+            "url": "https://www.businessinsider.com/elon-musk-starlink-saudi-arabia-donald-trump-2025-5",
+            "urlToImage": "https://i.insider.com/68238b42c6ad288d1480cf98?width=1200&format=jpeg",
+            "publishedAt": "2025-05-13T18:28:45Z",
+            "content": "Elon Musk announced Starlink is coming to Saudi Arabia.Brendan SMIALOWSKI / AFP\r\n<ul><li>Elon Musk said that Saudi Arabia has approved Starlink, his internet satellite system.</li><li>Musk made the a\u2026 [+1475 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Eliza Goodwin",
+            "title": "Sam Altman mocks Grok for inserting mentions of 'white genocide in South Africa' in unrelated X posts",
+            "description": "Sam Altman made fun of Grok's controversial 'white genocide' mentions on X, perhaps escalating his feud with Elon Musk.",
+            "url": "https://www.businessinsider.com/sam-altman-mocks-grok-over-controversial-white-genocide-comments-2025-5",
+            "urlToImage": "https://i.insider.com/68261d9268a2929008016d8a?width=1200&format=jpeg",
+            "publishedAt": "2025-05-15T18:19:21Z",
+            "content": "Rival tech leaders Elon Musk and Sam Altman have had a long-running feud.Steve Granitz, Andrew Caballero-Reynolds/Getty Images\r\n<ul><li>Elon Musk's X platform has faced backlash after its AI chatbot \u2026 [+2652 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey,Juliana Kaplan",
+            "title": "DOGE's deepest cuts to federal jobs are still to come \u2014 with or without Elon Musk",
+            "description": "Elon Musk said he's stepping back from his DOGE role to focus on Tesla. That doesn't mean the DOGE-fueled federal worker firings will stop.",
+            "url": "https://www.businessinsider.com/elon-musk-leaving-doge-firings-rifs-trump-federal-workforce-cuts-2025-4",
+            "urlToImage": "https://i.insider.com/67eb000fb8b41a9673fc3753?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T08:12:02Z",
+            "content": "Elon Musk is spearheading DOGE's efforts to cut the federal workforce.Samuel Corum/Getty Images\r\n<ul><li>Elon Musk said he'd soon be pulling away from the White House's DOGE office to focus on Tesla.\u2026 [+5370 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "Elon Musk says he isn't ruling out merging xAI and Tesla",
+            "description": "Tesla CEO Elon Musk said \"anything is possible\" when asked about merging xAI and Tesla, but said there are no plans to do so.",
+            "url": "https://www.businessinsider.com/elon-musk-wont-rule-out-merging-xai-tesla-2025-5",
+            "urlToImage": "https://i.insider.com/682cec26c6ad288d14817871?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T00:00:52Z",
+            "content": "Elon Musk said he won't rule out merging his AI startup with Tesla.Dado Ruvic/REUTERS\r\n<ul><li>Elon Musk said it's \"not out of the question\" to merge his AI startup with Tesla if shareholders approve\u2026 [+1995 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kelsey Vlamis",
+            "title": "These 4 tech billionaires who attended or donated to Trump's inauguration lost $194 billion in his first 100 days",
+            "description": "Elon Musk, Jeff Bezos, Mark Zuckerberg, and Jensen Huang lost a collective $194 billion in wealth since attending Trump's inauguration 100 days ago.",
+            "url": "https://www.businessinsider.com/tech-billionaires-wealth-dropped-trump-100-days-inauguration-2025-4",
+            "urlToImage": "https://i.insider.com/68100477a466d2b74ab465ac?width=1200&format=jpeg",
+            "publishedAt": "2025-04-29T08:15:01Z",
+            "content": "Elon Musk, Jeff Bezos, Mark Zuckerberg, and Jensen Huang have lost a collective $192 billion in wealth since Inauguration Day.Win McNamee/Getty Images; Gilbert Flores/Variety via Getty Images; Chris \u2026 [+5148 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Elon Musk says he wants to bring Tesla's robotaxis to Saudi Arabia, where Uber is also racing to launch its robotaxi service",
+            "description": "Tesla CEO Elon Musk said he wants to bring robotaxis to the Kingdom, where Uber is already making a robotaxi play with China's Pony.Ai.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-robotaxis-saudi-arabia-uber-ponyai-careem-2025-5",
+            "urlToImage": "https://i.insider.com/6823d0f43fe8d3928365c40b?width=1024&format=jpeg",
+            "publishedAt": "2025-05-13T23:47:06Z",
+            "content": "Tesla CEO Elon Musk said he wants to bring robotaxis to Saudi Arabia, where Uber is planning to launch a similar service later this year.Fayez Nureldine/AFP via Getty Images\r\n<ul><li>Tesla CEO Elon M\u2026 [+3015 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Eliza Goodwin",
+            "title": "Trump, Elon Musk, and top CEOs' lavish visit to Saudi Arabia in pictures",
+            "description": "President Trump met with Saudi Crown Prince Mohammed bin Salman and attended a US-Saudi investment forum along with Elon Musk and other top CEOs.",
+            "url": "https://www.businessinsider.com/trump-elon-musk-top-ceos-visit-saudi-arabia-pictures-2025-5",
+            "urlToImage": "https://i.insider.com/6823a92868a29290080137d2?width=1200&format=jpeg",
+            "publishedAt": "2025-05-14T09:33:02Z",
+            "content": "President Trump met with Saudi Crown Prince Mohammed bin Salman during his visit to Riyadh.Brian Snyder/REUTERS\r\n<ul><li>President Donald Trump visited Saudi Arabia on Tuesday for the first stop of h\u2026 [+4035 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thibault Spirlet",
+            "title": "Elon Musk says everyone will want their 'personal robot' \u2014 but warns of 'Terminator'-style risks",
+            "description": "Elon Musk said the rise  of humanoid robots could boost productivity and hopes they will lead to \"a 'Star Trek' future.\"",
+            "url": "https://www.businessinsider.com/elon-musk-personal-robots-warns-terminator-style-risks-saudi-robotaxi-2025-5",
+            "urlToImage": "https://i.insider.com/682467bac6ad288d1480de19?width=1200&format=jpeg",
+            "publishedAt": "2025-05-14T11:47:40Z",
+            "content": "Elon Musk attended the Saudi-US investment forum in Riyadh this week.FAYEZ NURELDINE/AFP via Getty Images\r\n<ul><li>Elon Musk said humanoid robots would unlock \"universal high income\" and help boost p\u2026 [+2696 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee,Katherine Tangalakis-Lippert",
+            "title": "Grok is Elon Musk's only ally in a hypothetical high-stakes AI race against Sam Altman",
+            "description": "OpenAI CEO Sam Altman asked Grok on Friday if he or Elon Musk should advance AI. We asked 6 other popular chatbots to chime in.",
+            "url": "https://www.businessinsider.com/elon-musk-vs-sam-altman-grok-chatgpt-comparison-advance-ai-2025-5",
+            "urlToImage": "https://i.insider.com/681fea98c6ad288d14809ba1?width=1024&format=jpeg",
+            "publishedAt": "2025-05-11T02:00:17Z",
+            "content": "Six popular chatbots said they would pass over Elon Musk (left) in favor of Sam Altman (right) as the best person to lead AI's advancement.Getty Images\r\n<ul><li>Sam Altman asked Grok if he or Elon Mu\u2026 [+8341 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert,Lloyd Lee",
+            "title": "Elon Musk says there's 'no need' for Tesla to buy Uber since Tesla owners could one day join its autonomous fleet",
+            "description": "Elon Musk said he has no plans to purchase the ride share app, Uber, saying Tesla owners will be able to lend their car to Tesla's autonomous fleet.",
+            "url": "https://www.businessinsider.com/no-need-tesla-buy-uber-elon-musk-2025-5",
+            "urlToImage": "https://i.insider.com/682cedab68a292900801dacf?width=1200&format=jpeg",
+            "publishedAt": "2025-05-20T22:23:29Z",
+            "content": "Elon Musk has dismissed a hypothetical Tesla-Uber deal, saying there's \"no need\" to buy the rideshare app.VCG/Getty\r\n<ul><li>Elon Musk on Tuesday told CNBC there's \"no need\" for Tesla to buy Uber.</l\u2026 [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "Elon Musk says Tesla robotaxis will be geo-fenced and avoid some intersections after being asked about FSD running a red light",
+            "description": "Elon Musk said Tesla's robotaxis will avoid certain intersections in Austin after being asked about a BI report that showed FSD running a red light.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-robotaxi-austin-geofenced-intersections-fsd-red-light-2025-5",
+            "urlToImage": "https://i.insider.com/682cf1f168a292900801db7f?width=1200&format=jpeg",
+            "publishedAt": "2025-05-20T22:25:07Z",
+            "content": "Elon Musk said Tesla's robotaxis will be limited to certain areas of Austin during its launch next month.Chip Somodevilla/Getty Images\r\n<ul><li>Tesla is planning to debut its robotaxi service next mo\u2026 [+3088 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li,Katherine Tangalakis-Lippert",
+            "title": "Here's what Elon Musk said about Tesla robotaxi and Optimus during his media blitz",
+            "description": "Elon Musk went on a media blitz to share plans on new robotics benchmarks and reiterate his commitment to his companies.",
+            "url": "https://www.businessinsider.com/what-elon-musk-said-about-robotics-robotaxi-optimus-media-blitz-2025-5",
+            "urlToImage": "https://i.insider.com/682d2a1b68a292900801de07?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T03:30:46Z",
+            "content": "In a media blitz, Elon Musk confirms Tesla's robotaxi rollout in June with a \"prudent\" approach.Hamad I Mohammed/REUTERS\r\n<ul><li>In a media blitz, Elon Musk said Tesla would roll out robotaxis in Ju\u2026 [+6341 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lakshmi Varanasi,John L. Dorman",
+            "title": "Elon Musk says he's getting back to business at X and Tesla: 'I must be super focused'",
+            "description": "Elon Musk is turning his attention back to his companies, including X, xAI, and Tesla, the tech giant said in a Saturday post on X.",
+            "url": "https://www.businessinsider.com/elon-musk-tesla-x-starship-business-doge-2025-5",
+            "urlToImage": "https://i.insider.com/68321032ca50259add4cfeaa?width=1200&format=jpeg",
+            "publishedAt": "2025-05-24T20:07:16Z",
+            "content": "Elon Musk says he's pivoting away from government work to focus more on his companies.Chesnot/Getty Images\r\n<ul><li>Elon Musk says he is returning his focus to X, Tesla, and his other companies.</li>\u2026 [+2516 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Lloyd Lee",
+            "title": "David Sacks compares Elon Musk's time at DOGE to the Twitter acquisition",
+            "description": "David Sacks compared Elon Musk's decision to reduce his time at DOGE to the billionaire's approach to managing Twitter during the acquisition.",
+            "url": "https://www.businessinsider.com/elon-musk-doge-maintenance-mode-david-sacks-all-in-podcast-2025-4",
+            "urlToImage": "https://i.insider.com/680d72f53fe8d39283642ef7?width=1200&format=jpeg",
+            "publishedAt": "2025-04-27T00:44:53Z",
+            "content": "White House crypto czar David Sacks said Elon Musk focuses intensely on one venture before he goes into \"maintenance mode.\"Kayla Bartkowski; Taylor Hill/Getty Images\r\n<ul><li>Elon Musk said he will s\u2026 [+2942 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kwan Wei Kevin Tan",
+            "title": "Elon Musk went on a media blitz. Here are 5 takeaways from his interviews.",
+            "description": "In media interviews on Tuesday, Musk reaffirmed his commitment to Tesla and said he'd be spending less on politics in the future.",
+            "url": "https://www.businessinsider.com/5-takeaways-from-elon-musk-media-blitz-2025-5",
+            "urlToImage": "https://i.insider.com/682d3e3aac40ae2b0c9e9c14?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T05:30:06Z",
+            "content": "In media interviews on Tuesday, Musk reaffirmed his commitment to Tesla and said he'd be spending less on politics in the future.Andrew Harnik via Getty Images\r\n<ul><li>Elon Musk gave media interview\u2026 [+5822 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John L. Dorman",
+            "title": "The success of DOGE depends on Congress and the Executive Branch, Elon Musk says",
+            "description": "At the Qatar Economic Forum, Musk praised DOGE's work while also emphasizing that their cuts will also require buy-in from the legislative branch.",
+            "url": "https://www.businessinsider.com/elon-musk-doge-congress-executive-branch-progress-2025-5",
+            "urlToImage": "https://i.insider.com/682ca2b03fe8d392836653fd?width=1200&format=jpeg",
+            "publishedAt": "2025-05-20T16:16:31Z",
+            "content": "Elon Musk has been the face of DOGE's cost-cutting efforts.Win McNamee/Getty Images\r\n<ul><li>Elon Musk said that it's up to the government to take its advice on federal cost-cutting.</li><li>Musk pra\u2026 [+2251 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Kwan Wei Kevin Tan",
+            "title": "Elon Musk says he will still be dropping in on the White House 'for a couple days every few weeks'",
+            "description": "Musk said he will be \"helpful where I can be helpful.\"",
+            "url": "https://www.businessinsider.com/elon-musk-still-drop-in-white-house-now-and-then-2025-5",
+            "urlToImage": "https://i.insider.com/682d7587c6ad288d14817e1e?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T07:45:58Z",
+            "content": "\"My rough plan on the White House is to be there for a couple days every few weeks,\" Elon Musk said.Brendan Smialowski/AFP via Getty Images\r\n<ul><li>Elon Musk told investors he plans to spend more ti\u2026 [+1940 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jordan Hart",
+            "title": "Billionaire Barry Diller said Elon Musk's popularity decline was 'swift' since they shared a box at the US Open",
+            "description": "Media mogul Barry Diller recalled how the crowd loved Elon Musk at the US Open in September, but he isn't so sure they'd still feel that way in 2025.",
+            "url": "https://www.businessinsider.com/elon-musk-celebrity-status-changed-trump-barry-diller-2025-5",
+            "urlToImage": "https://i.insider.com/682b53a768a292900801b19c?width=1200&format=jpeg",
+            "publishedAt": "2025-05-19T19:18:57Z",
+            "content": "Elon Musk attended the men's singles final of the US Open.Gotham/Contributor/GC Images/Getty Images\r\n<ul><li>Elon Musk was a star at the US Open in September 2024, media mogul Barry Diller said.</li>\u2026 [+2418 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "BYD overtakes Tesla in Europe for the first time. That's more bad news for Elon Musk.",
+            "description": "Chinese EV giant BYD sold more electric models than Tesla in Europe for the first time in April, as consumer interest in Elon Musk's automaker collapsed.",
+            "url": "https://www.businessinsider.com/byd-tesla-sales-europe-elon-musk-ev-china-2025-5",
+            "urlToImage": "https://i.insider.com/682eefca68a292900801ff83?width=1200&format=jpeg",
+            "publishedAt": "2025-05-22T10:14:34Z",
+            "content": "BYD launched the European version of its cheap Seagull EV on Wednesday.Peerapon Boonyakiat/SOPA/Getty Images\r\n<ul><li>BYD sold more electric cars than Tesla in Europe for the first time in April.</li\u2026 [+2373 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Bryan Metzger",
+            "title": "Bill Gates calls DOGE 'geographically illiterate,' says Elon Musk is 'involved in the deaths of the world's poorest children'",
+            "description": "The two men have long had a rivalry, and this isn't the first time the Microsoft cofounder has criticized Musk.",
+            "url": "https://www.businessinsider.com/bill-gates-doge-geographically-illiterate-musk-usaid-cuts-deaths-2025-5",
+            "urlToImage": "https://i.insider.com/681caf75c6ad288d14805b8d?width=1200&format=jpeg",
+            "publishedAt": "2025-05-08T14:21:00Z",
+            "content": "\"The world's richest man has been involved in the deaths of the world's poorest children,\" said Bill Gates.Bay Ismoyo and Brendan Smialowski/AFP via Getty Images\r\n<ul><li>In a new interview, Bill Gat\u2026 [+2362 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Tesla's chair denies the EV giant considered replacing Elon Musk as CEO",
+            "description": "The Wall Street Journal reported on Wednesday that board members began searching for a new CEO amid Tesla's stock slump.",
+            "url": "https://www.businessinsider.com/tesla-chair-denies-considered-replacing-elon-musk-ceo-2025-5",
+            "urlToImage": "https://i.insider.com/68132e14c6ad288d147faa61?width=1200&format=jpeg",
+            "publishedAt": "2025-05-01T08:50:01Z",
+            "content": "Elon Musk said he would step back from his role at DOGE next month in Tesla's Q1 earnings call.Andrew Harnik/Getty Images\r\n<ul><li>Tesla chair Robyn Denholm has denied that the company's board consid\u2026 [+2884 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Amanda Hoover",
+            "title": "A tale of two leaders: what Elon Musk could learn from Bill Gates",
+            "description": "The one-time world's richest man just schooled today's world's richest man in the downsides of 'disruption.'",
+            "url": "https://www.businessinsider.com/elon-musk-bill-gates-leadership-lesson-international-aid-doge-2025-5",
+            "urlToImage": "https://i.insider.com/682234d9c6ad288d1480acf5?width=1200&format=jpeg",
+            "publishedAt": "2025-05-13T08:17:01Z",
+            "content": "In one corner is the bespectacled tortoise, Bill Gates. In the other, the chainsaw-wielding hare, Elon Musk\r\n. Each has a very different idea about what it means to give back.\r\nGates plans to ramp up\u2026 [+7299 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "A Tesla worker built a website protesting Elon Musk. He was fired a few days later.",
+            "description": "Tesla employees have largely refrained from speaking out about protests against the automaker. Matthew LaBrot wants to change that.",
+            "url": "https://www.businessinsider.com/tesla-worker-anti-musk-website-fired-2025-5",
+            "urlToImage": "https://i.insider.com/681ba418c6ad288d14804adf?width=1200&format=jpeg",
+            "publishedAt": "2025-05-08T08:20:02Z",
+            "content": "Former Tesla employee Matthew LaBrot attends a Tesla Takedown protest in California on May 3.Cayce Clifford for BI\r\n<ul><li>Tesla salesworker Matthew LaBrot was fired after he published a website pro\u2026 [+8873 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Reed Alexander",
+            "title": "Meet Michael Grimes, the investment banker to Elon Musk who's running Trump's invest-in-America agenda",
+            "description": "Michael Grimes made a name for himself as a banker to tech giants like Uber and Google. Now, he's running Trump's investment accelerator.",
+            "url": "https://www.businessinsider.com/michael-grimes-morgan-stanley-investment-accelerator-trump-commerce-department-2025-3",
+            "urlToImage": "https://i.insider.com/679bde6d196626c40985dd2f?width=1200&format=jpeg",
+            "publishedAt": "2025-05-25T09:00:02Z",
+            "content": "Michael Grimes, who has joined the Trump administration, is pictured next to Linda Yaccarino, the CEO of X, formerly Twitter.Leigh Vogel/Getty Images for Uber, X and The Free Press\r\n<ul><li>Investmen\u2026 [+8156 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Kay",
+            "title": "Tesla adds over a thousand workers to jumpstart Semi truck production",
+            "description": "Elon Musk's carmaker has brought the new workers into the Giga Sparks factory for training and tours over the past few months, sources told BI.",
+            "url": "https://www.businessinsider.com/tesla-ramps-up-hiring-for-semi-truck-2025-4",
+            "urlToImage": "https://i.insider.com/6811089ec6ad288d147f7491?width=1200&format=jpeg",
+            "publishedAt": "2025-04-29T18:22:12Z",
+            "content": "Tesla adds over a thousand workers to jumpstart Semi truck production.Alexandria Sage\r\n<ul><li>Tesla brought in over 1,000 workers in Nevada to boost production for its Semi truck.</li><li>Tesla firs\u2026 [+2813 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Li",
+            "title": "Canvassers file a class action suit against Elon Musk's America PAC, alleging they weren't paid their $47",
+            "description": "Elon Musk's America PAC faces a class action lawsuit from petition signature gatherers who said they haven't been paid.",
+            "url": "https://www.businessinsider.com/petition-signer-sue-elon-musks-america-pac-for-unpaid-signatures-2025-5",
+            "urlToImage": "https://i.insider.com/6826a2d63fe8d392836605f7?width=1200&format=jpeg",
+            "publishedAt": "2025-05-16T03:15:28Z",
+            "content": "Elon Musk's America PAC is facing a class action lawsuit that alleges unpaid fees to canvassers.Samuel Corum via Getty Images\r\n<ul><li>Elon Musk's America PAC is facing a class action lawsuit that al\u2026 [+3046 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "John L. Dorman",
+            "title": "Steve Bannon says 'everything changed' for Musk after Trump publicly denied that the CEO would receive a secret China briefing",
+            "description": "Bannon, a former White House chief strategist during President Trump's first term, has long been a critic of Musk and other tech executives.",
+            "url": "https://www.businessinsider.com/steve-bannon-musk-trump-china-pentagon-briefing-doge-changes-2025-5",
+            "urlToImage": "https://i.insider.com/682e00e3ac40ae2b0c9eaae3?width=1200&format=jpeg",
+            "publishedAt": "2025-05-21T17:12:22Z",
+            "content": "Former Trump White House chief strategist Steve Bannon is not a fan of Elon Musk.David Dee Delgado/Getty Images\r\n<ul><li>Steve Bannon said \"everything changed\" for Elon Musk after Trump pushed back a\u2026 [+2617 chars]"
+        }
+    ]
+}
