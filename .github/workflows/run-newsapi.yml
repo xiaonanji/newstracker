@@ -29,15 +29,15 @@ jobs:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
           python - <<'PY'
-import os
-from pathlib import Path
+          import os
+          from pathlib import Path
 
-data = os.environ.get("FIREBASE_SERVICE_ACCOUNT")
-if not data:
-    raise SystemExit("FIREBASE_SERVICE_ACCOUNT secret is not configured")
+          data = os.environ.get("FIREBASE_SERVICE_ACCOUNT")
+          if not data:
+              raise SystemExit("FIREBASE_SERVICE_ACCOUNT secret is not configured")
 
-Path("newstracker-84c7d-firebase-adminsdk-fbsvc-c8b0e70438.json").write_text(data, encoding="utf-8")
-PY
+          Path("newstracker-84c7d-firebase-adminsdk-fbsvc-c8b0e70438.json").write_text(data, encoding="utf-8")
+          PY
 
       - name: Run news tracker
         env:
