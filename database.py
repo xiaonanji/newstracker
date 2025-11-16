@@ -1,8 +1,26 @@
+import os
+from pathlib import Path
+
 import firebase_admin
 from firebase_admin import credentials, db
 
+BASE_DIR = Path(__file__).resolve().parent
+DEFAULT_CREDENTIALS_FILE = "newstracker-84c7d-firebase-adminsdk-fbsvc-c8b0e70438.json"
+
+def _resolve_credentials_file():
+    """
+    Resolve the Firebase credentials file path, allowing overrides via env var.
+    """
+    custom_path = os.getenv("FIREBASE_CREDENTIALS_FILE", DEFAULT_CREDENTIALS_FILE)
+    cred_path = Path(custom_path)
+    if not cred_path.is_absolute():
+        cred_path = BASE_DIR / cred_path
+    if not cred_path.exists():
+        raise FileNotFoundError(f"Firebase credentials file not found: {cred_path}")
+    return cred_path
+
 # Load your service account key JSON file
-cred = credentials.Certificate(".\\newstracker-84c7d-firebase-adminsdk-fbsvc-c8b0e70438.json")
+cred = credentials.Certificate(str(_resolve_credentials_file()))
 
 # Initialize the app with the service account and database URL
 firebase_admin.initialize_app(cred, {
